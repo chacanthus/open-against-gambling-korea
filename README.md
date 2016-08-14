@@ -6,6 +6,12 @@ If you have gambling problems, you can contact this centers.
 
 [Removed contacts of gambling problem centers]
 
+# Projects
+- https://github.com/chacanthus/seastory-android
+- https://github.com/chacanthus/seastory-soundtrack
+- https://github.com/chacanthus/ymt2-neo
+- https://github.com/chacanthus/ymt2-soundtrack
+
 # Korean
 도박중독 예방 캠페인
 당신 곁에 우리가 있어요!
